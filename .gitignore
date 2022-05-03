@@ -28,7 +28,6 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-
 ### C
 # Prerequisites
 *.d
@@ -82,3 +81,6 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+### RIOT BUILDS
+bin/
