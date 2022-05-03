@@ -1,5 +1,5 @@
 # RIOT OS Security Tutorial
-IoT course @ La Sapienza University of Rome (A.Y: 2021/2022)
+IoT course @ La Sapienza University of Rome (A.Y.: 2021/2022)
 
 ## Before Starting
 Clone the repository
