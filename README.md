@@ -1,5 +1,5 @@
 # RIOT OS Security Tutorial
-IoT course @ La Sapienza University of Rome (A.Y.: 2021/2022)
+IoT course @ La Sapienza University of Rome (A.Y.: 2022/2023)
 
 ## Before Starting
 Clone the repository
@@ -14,13 +14,6 @@ Recommended ssh access.
 
 ## Init and update the submodules
 Execute `cd RIOT-OS-security-tutorial`.
-
-
-#### If you have SSH access skip this step
-If you do not have ssh access enabled open `.gitmodules` with your favorite text editor and substitute the url section with the https link:
-```
-	url = https://github.com/RIOT-OS/RIOT.git
-```
 
 #### Init submodule
 ```
@@ -63,4 +56,4 @@ In file `ecc/ecc.c`
 
 ## References
 
-[Course website](http://ichatz.me/Site/InternetOfThings2022)
+[Course website](http://ichatz.me/Site/InternetOfThings2023)
