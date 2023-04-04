@@ -15,7 +15,6 @@
 
 #include "thread.h"
 #include "shell.h"
-#include "shell_commands.h"
 
 #include "shell_utilities.h"
 
